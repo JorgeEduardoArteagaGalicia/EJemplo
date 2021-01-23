@@ -1,1 +1,2 @@
-Esta es la nueva rama de git
+Esta es la nueva rama de git,
+Estamos haciendo nuevos cambios despues del merge
