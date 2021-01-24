@@ -1,0 +1,47 @@
+[33mcommit 299c0b20a0ce88c7aa55ab181349e8d313025556[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 13:06:46 2021 -0600
+
+    Vamos a crear el conflicto
+
+[33mcommit 57c3c834cca3d58a947803b787af30646ddfffe4[m[33m ([m[1;32mNuevaRama[m[33m)[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 12:39:04 2021 -0600
+
+    Agragando cambios despues del merge
+
+[33mcommit 08816bc02b2272909273038a42f33ee154cc909a[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 12:15:34 2021 -0600
+
+    Insertamos una nueva rama
+
+[33mcommit 94d3fc0a6f91c010ed3d2cec628bfaff689f9eb0[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 11:54:53 2021 -0600
+
+    Correccion del documento 3
+
+[33mcommit b2a5eb70c5c29db05b912cae8c248875249e424c[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 11:50:07 2021 -0600
+
+    Estos son los documentos 1,2 y 3
+
+[33mcommit f569fd23f85ad2f9dc3eb049e97bac841b1a25f0[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 11:29:24 2021 -0600
+
+    Agregue mis dos animales favoritos
+
+[33mcommit b1ec5e2ec1e30f361cca1fe2b9559b309b277561[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 10:34:03 2021 -0600
+
+    Esta es la segunda autobiografia
+
+[33mcommit bbdf77884070e4bafad90a3b30ee6dd6d2bbc535[m
+Author: Jorge Arteaga <jorge.arteaga@ilab.net>
+Date:   Sat Jan 23 10:31:34 2021 -0600
+
+    Esta es la primera autobiografia
